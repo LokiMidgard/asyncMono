@@ -1,0 +1,52 @@
+{
+  "textureAtlas": {
+    "texture": "fireball.png",
+    "regionWidth": 32,
+    "regionHeight": 32
+  },
+  "cycles": {
+    "idle": {
+      "frames": [
+        0
+      ],
+      "isLooping": true,
+      "frameDuration": 0.2
+    },
+    "down": {
+      "frames": [
+        0,
+        1,
+        2
+      ],
+      "isLooping": true,
+      "frameDuration": 0.2
+    },
+    "left": {
+      "frames": [
+        3,
+        4,
+        5
+      ],
+      "isLooping": true,
+      "frameDuration": 0.2
+    },
+    "right": {
+      "frames": [
+        6,
+        7,
+        8
+      ],
+      "isLooping": true,
+      "frameDuration": 0.2
+    },
+    "up": {
+      "frames": [
+        9,
+        10,
+        11
+      ],
+      "isLooping": true,
+      "frameDuration": 0.2
+    }
+  }
+}
